@@ -12,7 +12,7 @@
 ## Nombre del grupo: Cluster Fusión
 
 ## Repositorio del grupo  
-[https://github.com/Cluster-Fusion](https://github.com/Cluster-Fusion)
+[Cluster-Fusion Módulo Analista de Datos 2025.](https://github.com/ISPC-Cluster-Fusion/Modulo_Analista_de_Datos_2025.git)
 
 ## Integrantes
 
