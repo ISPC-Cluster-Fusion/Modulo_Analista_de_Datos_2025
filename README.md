@@ -21,7 +21,7 @@
 | Barbero, Maciel                   | [BarberoMaciel](https://github.com/BarberoMaciel)       |
 | Molina, Jonathan Ariel            | [Jonaarmol](https://github.com/Jonaarmol)               |
 | Molina, Mauricio Leonel           | [Mauri-Molina10](https://github.com/Mauri-Molina10)     |
-| Palomeque, Jonathan Manuel(*)     | [manuelpalomeque](https://github.com/manuelpalomeque)   |
+| Palomeque, Jonathan Manuel (*)    | [manuelpalomeque](https://github.com/manuelpalomeque)   |
 | Robles, Emilce Lucia Nicole       | [emirobles](https://github.com/emirobles)               |
 | Sosa, Sebastian Cristhian         | [Cristhhh](https://github.com/Cristhhh)                 |
 | Virinni, Marco (**)               | [alanapolitana](https://github.com/alanapolitana)       |
