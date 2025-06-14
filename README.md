@@ -28,4 +28,4 @@
 | Marini, Ian Denis                 | [IanMarini](https://github.com/IanMarini)               |
 
 (*) *Si bien participó en el inicio de la Evidencia 2 informó que ya no continúa la materia.*  
-(**) Tuvo problemas con su repositorio personal.
+(**) Tuvo problemas con su cuenta personal. (Solucionado)
